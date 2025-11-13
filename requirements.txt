@@ -1,6 +1,6 @@
 streamlit
-scikit-learn
 joblib
 numpy
+urlextract
+tldextract
 scipy
-xgboost
