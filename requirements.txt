@@ -1,6 +1,7 @@
 streamlit
 joblib
 numpy
+scipy
+scikit-learn
 urlextract
 tldextract
-scipy
